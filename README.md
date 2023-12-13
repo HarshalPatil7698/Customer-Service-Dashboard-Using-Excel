@@ -3,7 +3,7 @@
 Excel Dashboard on Customer Service🧑🏻‍💻📲
 Welcome to the Customer Service Dashboard repository! This dashboard provides valuable insights into our customer service operations. Below are some key features and information included in this dashboard:
 
-![Dashboard](https://github.com/HarshalPatil7698/Customer-Service-Dashboard-Using-Excel/blob/main/Customer%20Service%20Dashboard.png)
+![Agent Performance](Customer%20Service%20Dashboard.png)
 
 ## Key Features:
 
